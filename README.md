@@ -1,7 +1,7 @@
 # MIST-4610-Group-Project
 
 ## Team Members
-1. David Breen (dlb86798@uga.edu)https://github.com/davidbreen23/MIST-4610-Group-Project/blob/main/README.md
+1. David Breen  [@davidbreen23](https://github.com/davidbreen23)
 2. Jacob Greenwald [@jg79522](https://github.com/jg79522) 
 3. Iliana Venegas [@imv2ven](https://github.com/imv2ven) 
 4. Alexa Persad [@aepersad](https://github.com/aepersad) 
