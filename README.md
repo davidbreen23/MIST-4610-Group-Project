@@ -36,6 +36,20 @@ Finally, since a single ProductionCompany can oversee the creation of multiple m
 
 <img width="579" height="638" alt="Assignment" src="https://github.com/user-attachments/assets/499ed097-c58f-4727-9e50-85315eb71de0" />
 
+<img width="579" height="616" alt="Contracts" src="https://github.com/user-attachments/assets/aec8a43b-f76a-43db-bf44-f0deee7d507a" />
+
+<img width="561" height="435" alt="Credits" src="https://github.com/user-attachments/assets/affe65e4-b56f-4d4c-a73b-3cddfc98b7b3" />
+
+<img width="562" height="230" alt="Location" src="https://github.com/user-attachments/assets/78d86301-1f60-4b3b-b811-20deed1773c4" />
+
+<img width="566" height="388" alt="Movies" src="https://github.com/user-attachments/assets/5bf296b5-f969-45fb-9f28-117120b2d8a7" />
+
+<img width="571" height="402" alt="Person" src="https://github.com/user-attachments/assets/b66b7245-f11a-40f3-bf5d-ea1d97e36ff8" />
+
+<img width="704" height="318" alt="ProductionCompany" src="https://github.com/user-attachments/assets/adcfa520-c069-464a-bc2e-7ab1e0fda644" />
+
+<img width="569" height="490" alt="ProductionSite" src="https://github.com/user-attachments/assets/792ff72f-9ed0-4ebe-8d46-fe4ed111aae4" />
+
 <img width="565" height="637" alt="RevenueReport" src="https://github.com/user-attachments/assets/16797677-c35a-4b75-ba51-945e9769aca9" />
 
 <img width="578" height="610" alt="TheaterCompany" src="https://github.com/user-attachments/assets/c04f05ef-f544-4792-93e1-fe126e8e7c7c" />
